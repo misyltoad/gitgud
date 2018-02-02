@@ -1,0 +1,7 @@
+[package]
+name = "gitgud"
+version = "0.0.1"
+authors = [ "Joshua Ashton <joshua@punyhuman.com>" ]
+
+[dependencies]
+rand = "0.4"
