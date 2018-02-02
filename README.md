@@ -8,3 +8,7 @@ A little wrapper for git that simplifies some otherwise relatively complex opera
     * Cleaning up a git repo.
 
 Useful for git newbies or if you want to make your scripts a little simpler.
+
+It should also be fairly portable as it is written in Rust.
+
+*This application requires git to be installed and in the PATH.*
