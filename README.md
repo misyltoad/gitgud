@@ -1,4 +1,4 @@
-#GitGud
+# GitGud
 
 A little wrapper for git that simplifies some otherwise relatively complex operations such as:
 
